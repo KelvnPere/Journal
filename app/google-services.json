@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576752095078",
+    "firebase_url": "https://journal-406de.firebaseio.com",
+    "project_id": "journal-406de",
+    "storage_bucket": "journal-406de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576752095078:android:d699744d1597aa6e",
+        "android_client_info": {
+          "package_name": "com.udacity.andela.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576752095078-258gafu23c2vc2obfrh2hr86vhlsrgnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.andela.journal",
+            "certificate_hash": "c3aac832746abd95297e5dbc148c9047dbdede74"
+          }
+        },
+        {
+          "client_id": "576752095078-05cc7m2a7p7cfhn95kb7o6sek29ujfpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAGWj7BXiQroV-P0uTMwHIVCyvpU5aHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576752095078-05cc7m2a7p7cfhn95kb7o6sek29ujfpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
